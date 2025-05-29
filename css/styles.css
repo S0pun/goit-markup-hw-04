@@ -296,6 +296,7 @@ img {
 
 .our_team-item-container {
   padding: 32px 0;
+  margin: 0 auto;
 
 }
 
@@ -318,10 +319,10 @@ img {
   margin-bottom: 8px;
 }
 
-.our_team-links-container {
-  margin: 0 auto;
+/*.our_team-links-container {
+  
+}*/
 
-}
 .our_team-item-links {
   display: flex;
   gap: 24px;
